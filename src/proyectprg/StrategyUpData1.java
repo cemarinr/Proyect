@@ -14,6 +14,7 @@ import java.util.Scanner;
  */
 public class StrategyUpData1 extends FactData implements ProxyInterface {
 
+    
     Scanner rkeyboard = new Scanner(System.in);
 
     @Override

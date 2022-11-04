@@ -18,7 +18,7 @@ public class SeeData implements ProxyInterface {
         for (FactConfData e : list) {
             System.out.println(e.showData());
         }
-       
+       System.out.println("Update 2");
     }
 
     @Override

@@ -17,6 +17,7 @@ public class StrategyUpData2 extends FactData implements ProxyInterface  {
 
     Scanner rkeyboard = new Scanner(System.in);
     
+    
     @Override
     public void updata() {
         System.out.println("Enter number :");

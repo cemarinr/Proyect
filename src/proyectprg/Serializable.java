@@ -10,4 +10,5 @@ package proyectprg;
  * @author STIVEN
  */
 public interface Serializable {
+    
 }

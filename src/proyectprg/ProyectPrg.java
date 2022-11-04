@@ -22,6 +22,7 @@ public class ProyectPrg {
     public static void main(String[] args) throws InterruptedException {
         //creo objeto para leer datos de usuario
         //creo objeto de la clase adaptada y de la nueva clase que se requiere adaptar
+        System.out.println("Update 1");
        AdapMenuNew obAdaNew = new AdapMenuNew();
         AdapMenu obAdap = new AdapterMenu();
         obAdap.callOptions();
